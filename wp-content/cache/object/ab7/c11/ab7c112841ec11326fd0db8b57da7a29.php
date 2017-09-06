@@ -1,0 +1,70 @@
+�ǮY<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:5:"11218";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-09-12 05:17:28";s:13:"post_date_gmt";s:19:"2016-09-12 05:17:28";s:12:"post_content";s:12866:"<p style="text-align: justify;">Are you utilizing Off Page SEO techniques to their full potential?</p>
+<p style="text-align: justify;">SEO can be broken down into two major categories – On Page which refers to the optimization done ON your webpages, and Off Page which refers to the tactics that you employ OFF of your website.</p>
+<p style="text-align: justify;">We have already taken an in-depth look at the <a href="http://www.socialmedia-solutions.com/on-page-seo-techniques">6 On Page SEO Techniques That Will Increase Your Rankings</a>, and in this blog post, we will focus on Off Page SEO.</p>
+<p style="text-align: justify;"><!--more--></p>
+
+<h2 style="text-align: justify;"><strong>What is SEO?</strong></h2>
+<p style="text-align: justify;">SEO, or search engine optimization, is a combination of methodologies, tactics, and strategies that position your website on a higher placement for search engine results page (SERP) for platforms like Google, and Bing. SEO directly contributes to how visible your website, blog posts, and other content is on the web.</p>
+
+<h3 style="text-align: left;"><strong>Benefits of Good SEO</strong></h3>
+<p style="text-align: justify;">Utilizing proper SEO techniques will result in a direct increase of website traffic which brings about numerous advantages. Here are the 3 most beneficial:</p>
+
+<h4 style="text-align: justify;"><strong>1. Increased brand awareness</strong></h4>
+<p style="text-align: justify;">By positioning yourself higher in search engine rankings, the amount of people interacting with your brand increases and they associate your brand with the keywords that they were searching for. This helps to instill trust in your brand and positions yourself as an authoritative in your field.</p>
+
+<h4 style="text-align: justify;"><strong>2. It's cost effective</strong></h4>
+<p style="text-align: justify;">Generating in-bound leads through SEO is much more cost efficient over traditional out-bound lead generating. How much more efficient? According to a recent study by Hubspot.com, in-bound leads now cost 61% less than out-bound leads.</p>
+
+<h4 style="text-align: justify;"><strong>3. Increased site usability</strong></h4>
+<p style="text-align: justify;">Not only does good SEO increase the ability for search engine bots to crawl and properly index your page, it creates a site architecture that is easily navigable by website visitors which reduces the number of people that “bounce” out of your website due to bad usability.</p>
+
+<h2><strong>Off Page SEO Techniques</strong></h2>
+<a href="http://www.socialmedia-solutions.com/wp-content/uploads/2016/09/Top-3-Off-Page-SEO-Techniques-That-Will-Boost-Your-Online-Presence.jpg"><img class="alignnone wp-image-12002 size-full" src="http://www.socialmedia-solutions.com/wp-content/uploads/2016/09/Top-3-Off-Page-SEO-Techniques-That-Will-Boost-Your-Online-Presence.jpg" alt="" width="845" height="422" /></a>
+<p style="text-align: justify;">Search engines like Google care about how your content is interacted with away from your website. For example, if you have a bunch of high-quality websites linking back to your site, then obviously you are providing quality content that people like engaging with. The same goes for if your content is spreading like wildfire on social media.</p>
+<p style="text-align: justify;">Although there are an abundance of off-page SEO tactics and techniques that you can incorporate into your marketing strategy, it’s best to focus on the strategies that have the biggest impact to avoid stretching your resources too far. Never forget that being awesome in a couple of areas is much better than being mediocre across many.</p>
+
+<h3 style="text-align: left;"><strong>1. Social Media</strong></h3>
+<p style="text-align: justify;">One factor that contributes to good Off Page SEO is how many back-links your website receives – something that we will touch on later in this post; however, this was manipulated by shady marketers employing “black hat” SEO techniques in the past, and it quickly diluted the entire SERP process. In response to this, not only has Google penalized these types of offenders, but they have also shifted so much focus away from back links, and placed it on social signals.</p>
+<p style="text-align: justify;">Now search engines look at factors like the number of Facebook likes, retweets, Google +1s, and more. This makes social media more important than ever. Let’s not forget that Google also loves Google+ and they have stated that not only does your content on Google+ get indexed faster, it also has a direct effect on your search engine rankings.</p>
+<p style="text-align: justify;">Another great benefit of social shares is the content that it influences in search results. Social profiles are often placed in the top search results for brand names. If you search for the keyword “MOZ” in Google, you can see that social profiles show up in the 2nd, 4th, and 6th search result, only being overtaken in the third position by Wikipedia. MOZ has absolutely dominated the entire first page of search results for their brand, and you can accomplish this too.</p>
+<p style="text-align: justify;">Let’s also not forget that social media channels are search engines too. More and more people are veering away from traditional search engines like Google and turning to Facebook and Twitter for information. This gives you an additional platform in which you can drive quality traffic to your website.</p>
+
+<h3 style="text-align: left;"><strong>2. Social Bookmarking</strong></h3>
+<p style="text-align: justify;">Some may argue that social bookmarking is dead, but I have to disagree. If used properly across the right sites, posting content on social bookmarking sites can increase the number of the social signals that are being attributed to your brand.</p>
+<p style="text-align: justify;">There are hundreds of social bookmarking sites out there, and depending on your industry, there may only be a small handful of them that will benefit you. The best social bookmarking sites in 2016 are Reddit and Digg.</p>
+
+<h4 style="text-align: justify;"><strong>Reddit</strong></h4>
+<p style="text-align: justify;">As of 2016, Reddit had 542 million monthly visitors and ranked the 25th most popular website in the world. It contains a community of registered members that can submit content such as text posts or even direct links. These submissions are then voted upon by members and can be brought to not only the front page, but to the top of category called subreddits.</p>
+<p style="text-align: justify;">Gaining traction in Reddit does take time and it isn’t something that you can put half-hearted effort into, but if used properly for your industry keywords; it can be a powerful tool for driving traffic to your site and building quality back links.</p>
+
+<h4 style="text-align: justify;"><strong>Digg</strong></h4>
+<p style="text-align: justify;">Launching in July of 2013, Digg is a news platform that aggregates syndicated web content into a curated front page and was once one of the biggest social voting sites on the web. Although it has lost some of its luster due to its biggest competitor, Reddit, it still receives over 2.5 million visitors a month.</p>
+<p style="text-align: justify;">Just like Reddit, users vote on the content submitted (upvotes are called Diggs) and if you are able to get to the homepage of the website, you are guaranteed to skyrocket the amount of traffic to your site – at least for a short period of time.</p>
+
+<h3 style="text-align: justify;"><strong>3. Link Building</strong></h3>
+<p style="text-align: justify;">Although I had said that Google has shifted some of its focus away from back links and towards social signals, don't underestimate the power of quality link building. In fact, if implemented correctly, link building can be the absolute most <a href="http://www.socialmedia-solutions.com/search-engine-optimization/">beneficial Off Page SEO technique</a> available in 2016.</p>
+<p style="text-align: justify;">I could write an entire book about the numerous link building strategies, both good and bad that you could follow, but for the sake of keeping this blog post from becoming a novel, I will just touch on the basics.</p>
+
+<h4><strong>Link Quality</strong></h4>
+<p style="text-align: justify;">The most important aspect of links pointing to your site is quality. Google and Bing care very little if you have 100 websites pointing to your website if they are spammy, low-quality sources. So what is a quality link? A link coming from a big, quality website that has established itself as an authoritative in your field is considered to be very good choice.</p>
+
+<h4><strong>Follow vs No Follow Links</strong></h4>
+<p style="text-align: justify;">There are two types of links – follow and no follow. Although they both act as a reference to a URL and they both can be a source of driving traffic, a no follow link has a modified HTML tag attached to it that tells search engine bots that the site that they are pointing too should not be trusted.</p>
+<p style="text-align: justify;">Examples of common no follow links would be forums and blog comment sections. No follow links are a clear indication that you should be focusing on building quality links, and not just try to spam quality websites.</p>
+
+<h3 style="text-align: left;"><strong>Building Quality Links</strong></h3>
+<p style="text-align: justify;">Building anything but quality links is a waste of time. Period. It doesn’t help your page rank in any way, it makes your brand look spammy, and it will hurt you in the long run. Here are 3 ways that you can build quality links that will directly impact your SERPs in a positive way.</p>
+<strong>Guest Blogging</strong>
+<p style="text-align: justify;">This link building technique not only allows you to land quality back links from quality sites, it establishes you as an authoritative in your field, and it drives traffic back to your website.</p>
+<p style="text-align: justify;">There are plenty of websites that allow guest blogging and the best way to find them is through a simple Google search “keyword” + “write for us”. This will pull up a list of possible places that you can submit content. Although, that is the easy part of the process; many sites will require that your content passes specific requirements to be posted and they might even charge you to do so.</p>
+<p style="text-align: justify;">Guest blogging is a bit more intensive than other methods, but it can lead to the most beneficial results.</p>
+<strong>Press Releases </strong>
+<p style="text-align: justify;">A lot like guest blogging, writing press releases is a way to take your content and share it on an authoritative site to build quality links; however, the content written for submission is not a blog post written around about specific industry keywords, but content that highlights milestones for your company, shares breaking news from your organization, or announces general information to the public.</p>
+<p style="text-align: justify;">Although press releases do provide SEO benefits, over the past few years, this importance has been slowly declining and it is advised that you also focus on other link building techniques in your overall Off Page SEO strategy.</p>
+<strong>Broken Link Building </strong>
+<p style="text-align: justify;">It might not seem like it, but the internet has already been around for 25 years. And over the years, it has become very broken. On a daily basis, websites go down, blog articles disappear, and URLS change.</p>
+<p style="text-align: justify;">Because of this, there is a huge opportunity to replace broken links with your own content. The process is quite simple. When you find a broken link, you contact the owner of the site to let them know and you offer them an appropriate replacement link in the process. The owner of the site just might repay your kindness of finding the broken link by using your link to replace his old one.</p>
+<p style="text-align: justify;">A great tool to find broken links on a large scale is <strong>Xenu’s Link Sleuth </strong>which allows you to search hundreds of URLs at once. The best way to get started is by building a list of URLs from authoritative sites in your industry, and let the tool go to work.</p>
+
+<h2><strong>In Conclusion</strong></h2>
+<p style="text-align: justify;">SEO is an investment. It takes understanding, time, and patience to properly implement a strategy that will increase your search engine rankings for specific keywords in your industry; however, by combining quality On Page and Off Page SEO techniques into your marketing strategy, you are guaranteed to see amazing results in the long run.</p>";s:10:"post_title";s:66:"Top 3 Off Page SEO Techniques That Will Boost Your Online Presence";s:12:"post_excerpt";s:351:"SEO can be broken down into two major categories - On Page which refers to the optimization done ON your webpages, and Off Page which refers to the tactics that you employ OFF of your website. We have already taken an in-depth look at the 6 On Page SEO Techniques That Will Increase Your Rankings, and in this blog post, we will focus on Off Page SEO.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:23:"off-page-seo-techniques";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-05-30 04:18:41";s:17:"post_modified_gmt";s:19:"2017-05-30 04:18:41";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:41:"http://socialmedia-solutions.com/?p=11218";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"2";}}

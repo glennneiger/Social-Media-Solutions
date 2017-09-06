@@ -1,0 +1,5 @@
+[09-Aug-2016 21:24:59 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/soso2048/public_html/wp-content/themes/easyweb/index.php on line 2
+[10-Aug-2016 13:55:11 America/Chicago] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home2/soso2048/public_html/wp-content/themes/easyweb/functions.php on line 4
+[11-Aug-2016 03:18:10 America/Chicago] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home2/soso2048/public_html/wp-content/themes/easyweb/functions.php on line 4
+[16-Mar-2017 10:18:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/soso2048/public_html/wp-content/themes/easyweb/404.php on line 2
+[23-Mar-2017 08:51:38 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/soso2048/public_html/wp-content/themes/easyweb/404.php on line 2

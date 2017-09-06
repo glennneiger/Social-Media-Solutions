@@ -1,0 +1,18 @@
+0000.004 () Opened log file at time: Fri, 31 Mar 2017 00:55:51 +0000 on http://www.socialmedia-solutions.com
+0000.004 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.35 WP: 4.7.3 PHP: 5.6.29 (cgi-fcgi, Linux gator4058.hostgator.com 3.12.65-188.ELK6.x86_64 #1 SMP Thu Oct 20 23:27:48 CDT 2016 x86_64) MySQL: 5.5.51 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 73.2M | 74M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.277 () Free space on disk containing Updraft's temporary directory: 110568.4 MB / Free disk space in account: 997605.2 MB (0.2 % used)
+0000.277 () Restore job started. Entities to restore: uploads, others. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.308 () Entity: uploads
+0000.308 () restore_backup(backup_file=backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:46:"/home2/soso2048/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0000.308 () Unpacking backup... (backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-uploads.zip, 310.8 Mb)
+0004.321 () Moving old data: filesystem method / updraft_dir is potentially possible
+0004.321 () Moving old data: can potentially use wp_filesystem method / -old
+0004.321 () Moving old data out of the way...
+0008.232 () Moving unpacked backup into place...
+0011.682 () Cleaning up rubbish...
+0011.690 () Entity: others
+0011.690 () restore_backup(backup_file=backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-others.zip, type=others, info=a:2:{s:4:"path";s:38:"/home2/soso2048/public_html/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0011.690 () Unpacking backup... (backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-others.zip, 0 Mb)
+0011.756 () Cleaning up rubbish...
+0011.763 () Restore successful!
+0011.763 () Restore successful

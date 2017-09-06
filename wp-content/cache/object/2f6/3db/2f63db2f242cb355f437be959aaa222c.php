@@ -1,0 +1,42 @@
+�îY<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:5:"11939";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2017-04-04 02:24:08";s:13:"post_date_gmt";s:19:"2017-04-04 02:24:08";s:12:"post_content";s:7266:"<p style="text-align: justify;">As a social media marketer, who offers services for firms who need aid with their social media marketing, it would be astute to assume that I am pro-outsourcing social media promotion. But I also know that there are instances where outsourcing social media is not the greatest option.</p>
+<!--more-->
+<h2>The Pros</h2>
+<h3 style="text-align: left;"><a href="http://www.socialmedia-solutions.com/wp-content/uploads/2017/04/The-Pros.jpg"><img class="alignnone wp-image-11952 size-full" src="http://www.socialmedia-solutions.com/wp-content/uploads/2017/04/The-Pros.jpg" alt="Pro Outsourcing Social Media Marketing" width="818" height="218" /></a></h3>
+<h3 style="text-align: left;">Getting Up To Speed with Variations in the Social Media Domain</h3>
+<p style="text-align: justify;">The <a href="https://blog.hootsuite.com/4-parts-of-social-media-that-are-constantly-evolving-and-how-to-adapt/">sphere of social media is constantly changing</a> on a daily basis, and it is actually difficult for small to medium-sized firms to keep up-to-date with these changes. An agency which offers to provide these services would definitely have to keep themselves knowledgeable of these changes and revisions and notifying customers of any adjustments to services if it affects their channels or websites. A big company though, will more than likely have the funds to hire dedicated personnel for social media marketing; who would dedicate a percentage of their time in keeping up to date with the constant changes taking place.</p>
+
+<h3 style="text-align: left;">Saving Time</h3>
+<p style="text-align: justify;">There is no doubt that being dynamic on social media is time intensive and in all businesses, time is valuable. A social media marketer would be quicker at writing posts, creating content, finding content, and knowing how to write content suitable for each of the diverse social media channels. Time is money, so the small to medium-size firms need to examine which option is the most cost-effective – hiring a social media specialist or doing the work themselves.</p>
+
+<h3 style="text-align: left;">Writing Skills</h3>
+<p style="text-align: justify;">Not everybody knows what to write and how to write. Some people find it hard but others can find it easy to compose a lot of bright ideas naturally. One of my customers was tremendously good at writing. However, she was not able to recognize the capabilities of social media. So, after some coaching; she was able to use her Facebook page more effectively. Most of my clients state this as their foremost reason for outsourcing social media.</p>
+
+<h3 style="text-align: left;">Do Whatever You Do Best</h3>
+<p style="text-align: justify;">I usually delegate my content writing to my team. Even if I can do it, I know it’s not really my forte. Therefore, it makes sense that I do more of what I do best and pay others to do whatever they do best. With this in mind, I have constructed a small team of specialists within my business that I can call on for guidance when required.</p>
+
+<h3 style="text-align: left;">Knowledge</h3>
+<p style="text-align: justify;">If you are considering handing over your social media work to the specialists, who have lots of experience plus a ton of tricks and know-how to pull from their resources; take the time to look over their portfolio and their own social media actions before making any decisions to use them.</p>
+
+<h3 style="text-align: left;">Apparatuses</h3>
+<p style="text-align: justify;">You might not be able to distinguish all of the extensive tools that are out there which could help you with your social media management. The specialists do, and they typically already have loads of experience in using these tools to your advantage.</p>
+
+<h3 style="text-align: left;">Expert Measurement</h3>
+<p style="text-align: justify;">Social media experts know how to distinguish, study, and measure the consequences connected to social media data, as well as how to respond, based on that data.</p>
+
+<h3 style="text-align: left;">Planned Thinking</h3>
+<p style="text-align: justify;">Professionals are well-prepared as they have lots of experience in creating a social media plan. They know what to do, as well as how to grow a social media platform that would work to satisfy the goals of your firm.</p>
+
+<h2>The Cons</h2>
+<h3 style="text-align: left;"><a href="http://www.socialmedia-solutions.com/wp-content/uploads/2017/04/Cons-Outsourcing-Social-Media-Marketing.jpg"><img class="alignnone size-full wp-image-11953" src="http://www.socialmedia-solutions.com/wp-content/uploads/2017/04/Cons-Outsourcing-Social-Media-Marketing.jpg" alt="Cons Outsourcing Social Media Marketing" width="818" height="218" /></a></h3>
+<h3 style="text-align: left;">The Personal Touch Could Be Missing</h3>
+<p style="text-align: justify;">Though a marketer could build your trade personality in how they write your posts, the personal touch could be missing. Only a small quantity of posts need to be about your trade since social media is about sharing. The best practice is, if you do select outsourcing social media; is to either add an occasional personal post to a member or staff, or send the info to your marketer.</p>
+
+<h3 style="text-align: left;">Time</h3>
+<p style="text-align: justify;">If you are not an expert, it is much more time-consuming to handle your social media platform development yourself. This is because you might not be as effective and familiar as those who do it on a daily or regular basis. This is another reason for outsourcing social media<strong>.</strong></p>
+
+<h3 style="text-align: left;">The Unique Knowledge of Your Trade Is Not Visibly Manifested</h3>
+<p style="text-align: justify;">No one knows your business as well as you do. Even if there are agents who specialize in niche markets, and who have a pretty decent idea of what your business is about; as well as your client base, no one knows your market as much as you do. So, if you will choose outsourcing social media, make certain you select an agency that recognizes and has worked with your type of business or trade, and who accepts your fundamental input.</p>
+
+<h3 style="text-align: left;">Final Words</h3>
+<p style="text-align: justify;">For some firms, the decision to use outsourcing social media is a stress-free one; it is <a href="https://www.forbes.com/sites/jeffcornwall/2016/02/20/a-cost-effective-approach-to-outsourcing-digital-marketing/#3a8caf2c43b2">cost- effective</a> and the directors or managers see the benefits/profits of a good social media following. For smaller firms, it is continually difficult to part with the pennies. However, in my experience; keeping it in-house will still utilize more costs, for example in training personnel, software development plus time – these are essential if you want to use social media with a planned approach.</p>
+<p style="text-align: justify;">I personally believe that the pros overshadow the cons, and it is better for you to trust social media experts to do this for you. If you do not feel confident about using these experts, then perhaps, you should consider investing in and building your own social media group composed of professionals.</p>";s:10:"post_title";s:55:"The Pros and Cons of Outsourcing Social Media Marketing";s:12:"post_excerpt";s:284:"As a social media marketer, who offers services for firms who need aid with their social media marketing, it would be astute to assume that I am pro-outsourcing social media promotion. But I also know that there are instances where outsourcing social media is not the greatest option.";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:24:"outsourcing-social-media";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2017-05-30 04:45:36";s:17:"post_modified_gmt";s:19:"2017-05-30 04:45:36";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:45:"http://www.socialmedia-solutions.com/?p=11939";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

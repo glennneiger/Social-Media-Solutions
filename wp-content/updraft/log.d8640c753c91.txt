@@ -1,0 +1,769 @@
+0000.045 (0) Opened log file at time: Mon, 28 Aug 2017 09:04:49 +0000 on http://www.socialmedia-solutions.com
+0000.052 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.13.4 WP: 4.8.1 PHP: 5.6.30 (cgi-fcgi, Linux gator4058.hostgator.com 3.12.74-213.ELK6.x86_64 #1 SMP Tue Jun 20 00:36:01 CDT 2017 x86_64) MySQL: 5.5.51 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 57.7M | 58.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.457 (0) Free space on disk containing Updraft's temporary directory: 340481.7 MB
+0000.463 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.466 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.477 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1503305834, seconds_ago=605255)
+0000.480 (0) Set semaphore last lock (fd) time to 2017-08-28 09:04:49
+0000.483 (0) Semaphore lock (fd) complete
+0000.494 (0) Backup run: resumption=0, nonce=d8640c753c91, begun at=1503911089 (0s ago), job type=backup
+0000.498 (0) Scheduling a resumption (1) after 300 seconds (1503911389) in case this run gets aborted
+0000.514 (0) Checking if we have a zip executable available
+0000.518 (0) Testing: /usr/bin/zip
+0000.532 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.536 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.538 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.540 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.543 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.556 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.559 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.571 (0) Working binary zip found: /usr/bin/zip
+0000.575 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.578 (0) Creation of backups of directories: beginning
+0000.584 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.086 (0) Total entities for the zip file: 1163 directories, 10240 files (0 skipped as non-modified), 111.9 MB
+0001.094 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.100 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.106 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.112 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.117 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.120 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.4 MB, 10240 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.770 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: size is now: 1.90 MB
+0001.783 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 600 files added (on-disk size: 1932.3 KB)
+0001.791 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 700 files added (on-disk size: 1932.3 KB)
+0001.800 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 800 files added (on-disk size: 1932.3 KB)
+0001.808 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 900 files added (on-disk size: 1932.3 KB)
+0001.815 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1000 files added (on-disk size: 1932.3 KB)
+0001.818 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.8 MB, 10240 files batched, 501 (1002) added so far); re-opening (prior size: 1932.3 KB)
+0002.378 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: size is now: 4.10 MB
+0002.393 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1100 files added (on-disk size: 4210.5 KB)
+0002.400 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1200 files added (on-disk size: 4210.5 KB)
+0002.407 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1300 files added (on-disk size: 4210.5 KB)
+0002.414 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1400 files added (on-disk size: 4210.5 KB)
+0002.422 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1500 files added (on-disk size: 4210.5 KB)
+0002.425 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.8 MB, 10240 files batched, 501 (1503) added so far); re-opening (prior size: 4210.5 KB)
+0003.864 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: size is now: 9.60 MB
+0003.875 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1600 files added (on-disk size: 9806.3 KB)
+0003.881 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1700 files added (on-disk size: 9806.3 KB)
+0003.887 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1800 files added (on-disk size: 9806.3 KB)
+0003.893 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 1900 files added (on-disk size: 9806.3 KB)
+0003.900 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2000 files added (on-disk size: 9806.3 KB)
+0003.903 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (9.2 MB, 10240 files batched, 501 (2004) added so far); re-opening (prior size: 9806.3 KB)
+0005.377 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: size is now: 16.40 MB
+0005.388 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2100 files added (on-disk size: 16784.9 KB)
+0005.394 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2200 files added (on-disk size: 16784.9 KB)
+0005.401 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2300 files added (on-disk size: 16784.9 KB)
+0005.407 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2400 files added (on-disk size: 16784.9 KB)
+0005.413 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2500 files added (on-disk size: 16784.9 KB)
+0005.416 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3 MB, 10240 files batched, 501 (2505) added so far); re-opening (prior size: 16784.9 KB)
+0006.000 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2600 files added (on-disk size: 17813.3 KB)
+0006.006 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2700 files added (on-disk size: 17813.3 KB)
+0006.012 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2800 files added (on-disk size: 17813.3 KB)
+0006.018 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 2900 files added (on-disk size: 17813.3 KB)
+0006.024 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3000 files added (on-disk size: 17813.3 KB)
+0006.027 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.7 MB, 10240 files batched, 501 (3006) added so far); re-opening (prior size: 17813.3 KB)
+0007.834 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3100 files added (on-disk size: 19377.5 KB)
+0007.840 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3200 files added (on-disk size: 19377.5 KB)
+0007.846 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3300 files added (on-disk size: 19377.5 KB)
+0007.852 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3400 files added (on-disk size: 19377.5 KB)
+0007.858 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3500 files added (on-disk size: 19377.5 KB)
+0007.868 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.5 MB, 10240 files batched, 501 (3507) added so far); re-opening (prior size: 19377.5 KB)
+0009.831 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: size is now: 23.30 MB
+0009.844 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3600 files added (on-disk size: 23815 KB)
+0009.852 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3700 files added (on-disk size: 23815 KB)
+0009.859 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3800 files added (on-disk size: 23815 KB)
+0009.865 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 3900 files added (on-disk size: 23815 KB)
+0009.872 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4000 files added (on-disk size: 23815 KB)
+0009.875 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 10240 files batched, 501 (4008) added so far); re-opening (prior size: 23815 KB)
+0010.431 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4100 files added (on-disk size: 26377.9 KB)
+0010.440 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4200 files added (on-disk size: 26377.9 KB)
+0010.449 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4300 files added (on-disk size: 26377.9 KB)
+0010.457 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4400 files added (on-disk size: 26377.9 KB)
+0010.466 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4500 files added (on-disk size: 26377.9 KB)
+0010.470 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.4 MB, 10240 files batched, 501 (4509) added so far); re-opening (prior size: 26377.9 KB)
+0011.072 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4600 files added (on-disk size: 27401 KB)
+0011.079 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4700 files added (on-disk size: 27401 KB)
+0011.085 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4800 files added (on-disk size: 27401 KB)
+0011.091 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 4900 files added (on-disk size: 27401 KB)
+0011.098 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5000 files added (on-disk size: 27401 KB)
+0011.101 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.1 MB, 10240 files batched, 501 (5010) added so far); re-opening (prior size: 27401 KB)
+0013.275 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5100 files added (on-disk size: 32707.2 KB)
+0013.282 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5200 files added (on-disk size: 32707.2 KB)
+0013.288 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5300 files added (on-disk size: 32707.2 KB)
+0013.294 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5400 files added (on-disk size: 32707.2 KB)
+0013.300 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5500 files added (on-disk size: 32707.2 KB)
+0013.303 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.2 MB, 10240 files batched, 501 (5511) added so far); re-opening (prior size: 32707.2 KB)
+0013.511 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5600 files added (on-disk size: 32971.4 KB)
+0013.518 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5700 files added (on-disk size: 32971.4 KB)
+0013.524 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5800 files added (on-disk size: 32971.4 KB)
+0013.530 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 5900 files added (on-disk size: 32971.4 KB)
+0013.536 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6000 files added (on-disk size: 32971.4 KB)
+0013.539 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 MB, 10240 files batched, 501 (6012) added so far); re-opening (prior size: 32971.4 KB)
+0013.888 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6100 files added (on-disk size: 34049.4 KB)
+0013.895 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6200 files added (on-disk size: 34049.4 KB)
+0013.901 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6300 files added (on-disk size: 34049.4 KB)
+0013.908 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6400 files added (on-disk size: 34049.4 KB)
+0013.914 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6500 files added (on-disk size: 34049.4 KB)
+0013.917 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.2 MB, 10240 files batched, 501 (6513) added so far); re-opening (prior size: 34049.4 KB)
+0014.421 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6600 files added (on-disk size: 35630.4 KB)
+0014.427 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6700 files added (on-disk size: 35630.4 KB)
+0014.433 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6800 files added (on-disk size: 35630.4 KB)
+0014.438 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 6900 files added (on-disk size: 35630.4 KB)
+0014.496 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7000 files added (on-disk size: 35630.4 KB)
+0014.500 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.4 MB, 10240 files batched, 501 (7014) added so far); re-opening (prior size: 35630.4 KB)
+0014.940 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7100 files added (on-disk size: 37277.5 KB)
+0014.947 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7200 files added (on-disk size: 37277.5 KB)
+0014.953 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7300 files added (on-disk size: 37277.5 KB)
+0014.959 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7400 files added (on-disk size: 37277.5 KB)
+0014.964 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7500 files added (on-disk size: 37277.5 KB)
+0014.967 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6 MB, 10240 files batched, 501 (7515) added so far); re-opening (prior size: 37277.5 KB)
+0015.738 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7600 files added (on-disk size: 38765.3 KB)
+0015.746 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7700 files added (on-disk size: 38765.3 KB)
+0015.753 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7800 files added (on-disk size: 38765.3 KB)
+0015.759 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 7900 files added (on-disk size: 38765.3 KB)
+0015.765 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8000 files added (on-disk size: 38765.3 KB)
+0015.768 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.8 MB, 10240 files batched, 501 (8016) added so far); re-opening (prior size: 38765.3 KB)
+0017.281 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8100 files added (on-disk size: 41820.6 KB)
+0017.290 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8200 files added (on-disk size: 41820.6 KB)
+0017.298 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8300 files added (on-disk size: 41820.6 KB)
+0017.307 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8400 files added (on-disk size: 41820.6 KB)
+0017.315 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8500 files added (on-disk size: 41820.6 KB)
+0017.319 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.6 MB, 10240 files batched, 501 (8517) added so far); re-opening (prior size: 41820.6 KB)
+0017.876 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8600 files added (on-disk size: 43060.5 KB)
+0017.883 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8700 files added (on-disk size: 43060.5 KB)
+0017.890 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8800 files added (on-disk size: 43060.5 KB)
+0017.899 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 8900 files added (on-disk size: 43060.5 KB)
+0017.908 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9000 files added (on-disk size: 43060.5 KB)
+0017.913 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.1 MB, 10240 files batched, 501 (9018) added so far); re-opening (prior size: 43060.5 KB)
+0018.578 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9100 files added (on-disk size: 43875.6 KB)
+0018.584 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9200 files added (on-disk size: 43875.6 KB)
+0018.591 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9300 files added (on-disk size: 43875.6 KB)
+0018.597 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9400 files added (on-disk size: 43875.6 KB)
+0018.603 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9500 files added (on-disk size: 43875.6 KB)
+0018.606 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.1 MB, 10240 files batched, 501 (9519) added so far); re-opening (prior size: 43875.6 KB)
+0021.549 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9600 files added (on-disk size: 49757.2 KB)
+0021.556 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9700 files added (on-disk size: 49757.2 KB)
+0021.562 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9800 files added (on-disk size: 49757.2 KB)
+0021.568 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 9900 files added (on-disk size: 49757.2 KB)
+0021.574 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 10000 files added (on-disk size: 49757.2 KB)
+0021.578 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.6 MB, 10240 files batched, 501 (10020) added so far); re-opening (prior size: 49757.2 KB)
+0021.864 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 10100 files added (on-disk size: 50326.7 KB)
+0021.870 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip.tmp: 10200 files added (on-disk size: 50326.7 KB)
+0023.086 (0) Created plugins zip (0) - 50736.3 KB in 22.3 s (2276.8 KB/s) (sha1: 6d89b35881652f230b80f217575f89000d2ae870, sha256: b764243f88777157f91bc60ea7d729a5e85e50667e3558d45777398339702a70)
+0023.093 (0) Beginning creation of dump of themes (split every: 400 MB)
+0023.322 (0) Total entities for the zip file: 147 directories, 1520 files (0 skipped as non-modified), 42.7 MB
+0023.329 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0023.336 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0023.342 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0023.349 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0023.355 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0023.358 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.5 MB, 1520 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0024.610 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: size is now: 17.80 MB
+0024.620 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 600 files added (on-disk size: 18264.9 KB)
+0024.626 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 700 files added (on-disk size: 18264.9 KB)
+0024.632 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 800 files added (on-disk size: 18264.9 KB)
+0024.638 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 900 files added (on-disk size: 18264.9 KB)
+0024.644 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 1000 files added (on-disk size: 18264.9 KB)
+0024.647 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.5 MB, 1520 files batched, 501 (1002) added so far); re-opening (prior size: 18264.9 KB)
+0026.097 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 1100 files added (on-disk size: 18660.8 KB)
+0026.104 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 1200 files added (on-disk size: 18660.8 KB)
+0026.111 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 1300 files added (on-disk size: 18660.8 KB)
+0026.117 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 1400 files added (on-disk size: 18660.8 KB)
+0026.123 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: 1500 files added (on-disk size: 18660.8 KB)
+0026.126 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 1520 files batched, 501 (1503) added so far); re-opening (prior size: 18660.8 KB)
+0026.787 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip.tmp: size is now: 38.40 MB
+0027.512 (0) Created themes zip (0) - 39295 KB in 4.2 s (9279 KB/s) (sha1: 6f575867830afd4407a30c2cab668002eb4bb8df, sha256: d2dd1c792b86a49cdd0923857fb1b4797a751754c0ab867322f6b2187d0ec404)
+0027.518 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0027.520 (0) Looking for candidates to back up in: /home2/soso2048/public_html/wp-content/uploads
+0027.523 (0) finding files: wc-logs: adding to list (1)
+0027.525 (0) finding files: 2015: adding to list (2)
+0027.528 (0) finding files: landing-pages: adding to list (3)
+0027.531 (0) finding files: 2017: adding to list (4)
+0027.533 (0) finding files: titan-framework-wdc-options-css.css: adding to list (5)
+0027.536 (0) finding files: tcb_lp_templates: adding to list (6)
+0027.539 (0) finding files: revslider: adding to list (7)
+0027.541 (0) finding files: ithemes-security: adding to list (8)
+0027.544 (0) finding files: tve_leads_templates: adding to list (9)
+0027.547 (0) finding files: woocommerce_uploads: adding to list (10)
+0027.550 (0) finding files: js_composer: adding to list (11)
+0027.552 (0) finding files: 2016: adding to list (12)
+0027.555 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0027.908 (0) Total entities for the zip file: 207 directories, 6047 files (0 skipped as non-modified), 399.7 MB
+0027.914 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (37.5 MB, 6047 files batched, 5 (5) added so far); re-opening (prior size: 0 KB)
+0028.150 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: size is now: 37.50 MB
+0028.156 (0) A useful amount of data was added after this amount of zip processing: 0.5 s (normalised: 0.3 s, rate: 73339.7 KB/s)
+0028.160 (0) Performance is good - will increase the amount of data we attempt to batch (time=0.523366928101, normalised_time=0.349060579957, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=209715200)
+0028.169 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 100 files added (on-disk size: 38426.3 KB)
+0028.190 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 200 files added (on-disk size: 38426.3 KB)
+0028.197 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 300 files added (on-disk size: 38426.3 KB)
+0028.204 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 400 files added (on-disk size: 38426.3 KB)
+0028.212 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 500 files added (on-disk size: 38426.3 KB)
+0028.215 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (40.7 MB, 6047 files batched, 501 (506) added so far); re-opening (prior size: 38426.3 KB)
+0032.193 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: size is now: 77.60 MB
+0032.203 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 600 files added (on-disk size: 79413.8 KB)
+0032.209 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 700 files added (on-disk size: 79413.8 KB)
+0032.215 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 800 files added (on-disk size: 79413.8 KB)
+0032.222 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 900 files added (on-disk size: 79413.8 KB)
+0032.232 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1000 files added (on-disk size: 79413.8 KB)
+0032.235 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (16.8 MB, 6047 files batched, 501 (1007) added so far); re-opening (prior size: 79413.8 KB)
+0034.226 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: size is now: 94.40 MB
+0034.237 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1100 files added (on-disk size: 96712 KB)
+0034.250 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1200 files added (on-disk size: 96712 KB)
+0034.272 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1300 files added (on-disk size: 96712 KB)
+0034.279 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1400 files added (on-disk size: 96712 KB)
+0034.286 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1500 files added (on-disk size: 96712 KB)
+0034.290 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (0.5 MB, 6047 files batched, 501 (1508) added so far); re-opening (prior size: 96712 KB)
+0034.676 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1600 files added (on-disk size: 97112.8 KB)
+0034.683 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1700 files added (on-disk size: 97112.8 KB)
+0034.690 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1800 files added (on-disk size: 97112.8 KB)
+0034.697 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 1900 files added (on-disk size: 97112.8 KB)
+0034.703 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2000 files added (on-disk size: 97112.8 KB)
+0034.707 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (2.3 MB, 6047 files batched, 501 (2009) added so far); re-opening (prior size: 97112.8 KB)
+0035.275 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2100 files added (on-disk size: 98408 KB)
+0035.282 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2200 files added (on-disk size: 98408 KB)
+0035.290 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2300 files added (on-disk size: 98408 KB)
+0035.296 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2400 files added (on-disk size: 98408 KB)
+0035.302 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2500 files added (on-disk size: 98408 KB)
+0035.306 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.1 MB, 6047 files batched, 501 (2510) added so far); re-opening (prior size: 98408 KB)
+0038.425 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2600 files added (on-disk size: 118077.8 KB)
+0038.432 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2700 files added (on-disk size: 118077.8 KB)
+0038.439 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2800 files added (on-disk size: 118077.8 KB)
+0038.445 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 2900 files added (on-disk size: 118077.8 KB)
+0038.451 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3000 files added (on-disk size: 118077.8 KB)
+0038.454 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (66.8 MB, 6047 files batched, 501 (3011) added so far); re-opening (prior size: 118077.8 KB)
+0044.052 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: size is now: 182.30 MB
+0044.061 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3100 files added (on-disk size: 186633.9 KB)
+0044.067 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3200 files added (on-disk size: 186633.9 KB)
+0044.073 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3300 files added (on-disk size: 186633.9 KB)
+0044.078 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3400 files added (on-disk size: 186633.9 KB)
+0044.084 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3500 files added (on-disk size: 186633.9 KB)
+0044.087 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (72.7 MB, 6047 files batched, 501 (3512) added so far); re-opening (prior size: 186633.9 KB)
+0050.993 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: size is now: 255.00 MB
+0051.003 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3600 files added (on-disk size: 261147.9 KB)
+0051.009 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3700 files added (on-disk size: 261147.9 KB)
+0051.016 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3800 files added (on-disk size: 261147.9 KB)
+0051.022 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 3900 files added (on-disk size: 261147.9 KB)
+0051.028 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4000 files added (on-disk size: 261147.9 KB)
+0051.031 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (46.4 MB, 6047 files batched, 501 (4013) added so far); re-opening (prior size: 261147.9 KB)
+0060.018 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4100 files added (on-disk size: 308741.2 KB)
+0060.027 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4200 files added (on-disk size: 308741.2 KB)
+0060.036 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4300 files added (on-disk size: 308741.2 KB)
+0060.045 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4400 files added (on-disk size: 308741.2 KB)
+0060.052 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4500 files added (on-disk size: 308741.2 KB)
+0060.056 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (15.5 MB, 6047 files batched, 501 (4514) added so far); re-opening (prior size: 308741.2 KB)
+0064.941 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4600 files added (on-disk size: 324742.8 KB)
+0064.948 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4700 files added (on-disk size: 324742.8 KB)
+0064.955 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4800 files added (on-disk size: 324742.8 KB)
+0064.961 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 4900 files added (on-disk size: 324742.8 KB)
+0064.968 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5000 files added (on-disk size: 324742.8 KB)
+0064.971 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.8 MB, 6047 files batched, 501 (5015) added so far); re-opening (prior size: 324742.8 KB)
+0068.566 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5100 files added (on-disk size: 335875.5 KB)
+0068.573 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5200 files added (on-disk size: 335875.5 KB)
+0068.580 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5300 files added (on-disk size: 335875.5 KB)
+0068.588 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5400 files added (on-disk size: 335875.5 KB)
+0068.594 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5500 files added (on-disk size: 335875.5 KB)
+0068.597 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (44.1 MB, 6047 files batched, 501 (5516) added so far); re-opening (prior size: 335875.5 KB)
+0073.076 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5600 files added (on-disk size: 381184.3 KB)
+0073.085 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5700 files added (on-disk size: 381184.3 KB)
+0073.092 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5800 files added (on-disk size: 381184.3 KB)
+0073.100 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 5900 files added (on-disk size: 381184.3 KB)
+0073.108 (0) Zip: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip.tmp: 6000 files added (on-disk size: 381184.3 KB)
+0073.111 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (24.8 MB, 6047 files batched, 501 (6017) added so far); re-opening (prior size: 381184.3 KB)
+0087.251 (0) Created uploads zip (0) - 408449.2 KB in 59.5 s (6864 KB/s) (sha1: 45cbe6b06843ca0b64273ba71555aa5185be405e, sha256: 44c63e2365540a3a9d50da781a3b1b82ada35be5abd83fd3d0d5d2ce39fff5ef)
+0087.260 (0) Beginning backup of other directories found in the content directory (index: 0)
+0087.262 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0087.265 (0) Looking for candidates to back up in: /home2/soso2048/public_html/wp-content
+0087.269 (0) finding files: mu-plugins: adding to list (1)
+0087.272 (0) finding files: advanced-cache.php: adding to list (2)
+0087.275 (0) finding files: plugins-old: adding to list (3)
+0087.277 (0) finding files: object-cache.php: adding to list (4)
+0087.280 (0) finding files: wflogs: adding to list (5)
+0087.283 (0) finding files: cache: skipping: excluded by options
+0087.286 (0) finding files: db.php-old: adding to list (6)
+0087.289 (0) finding files: db.php: adding to list (7)
+0087.292 (0) finding files: plugins: skipping: this is the plugins directory
+0087.295 (0) finding files: wflogs-old: adding to list (8)
+0087.298 (0) finding files: wfcache: adding to list (9)
+0087.301 (0) finding files: themes-old: adding to list (10)
+0087.305 (0) finding files: object-cache.php-old: adding to list (11)
+0087.309 (0) finding files: index.php: adding to list (12)
+0087.315 (0) finding files: index.php-old: adding to list (13)
+0087.319 (0) finding files: uploads: skipping: this is the uploads directory
+0087.322 (0) finding files: wfcache-old: adding to list (14)
+0087.326 (0) finding files: w3tc-config: adding to list (15)
+0087.330 (0) finding files: themes: skipping: this is the themes directory
+0087.334 (0) finding files: w3tc-config-old: adding to list (16)
+0087.337 (0) finding files: upgrade: skipping: excluded by options
+0087.341 (0) finding files: uploads-old: adding to list (17)
+0087.345 (0) finding files: updraft: skipping: this is the updraft directory
+0087.348 (0) finding files: advanced-cache.php-old: adding to list (18)
+0087.773 (0) Total entities for the zip file: 10 directories, 28 files (0 skipped as non-modified), 0.2 MB
+0088.527 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip.tmp: size is now: 0.00 MB
+0088.549 (0) Created others zip (0) - 40.9 KB in 1 s (41.2 KB/s) (sha1: 2633452c0242ce93123f4d4a06cf02b7e8ac5cbe, sha256: 78cb7a6de401f9de7a6fda96d7cab7b617fa8a7712590182fbe433e2d2458bac)
+0088.562 (0) Saving backup status to database (elements: 8)
+0088.570 (0) Beginning creation of database dump (WordPress DB)
+0088.578 (0) Testing: /usr/bin/mysqldump
+0088.621 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1200 bytes total)
+0088.626 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0088.666 (0) Table wp_options: Total expected rows (approximate): 1587
+0089.340 (0) Table wp_options: Total rows added: 1583 in 0.67 seconds
+0089.345 (0) Table wp_options: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_options.table.gz - 1748.7 KB)
+0089.358 (0) Table wp_users: Total expected rows (approximate): 2
+0089.363 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0089.367 (0) Table wp_users: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_users.table.gz - 0.7 KB)
+0089.377 (0) Table wp_usermeta: Total expected rows (approximate): 91
+0089.384 (0) Table wp_usermeta: Total rows added: 91 in 0.00 seconds
+0089.388 (0) Table wp_usermeta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_usermeta.table.gz - 3.5 KB)
+0089.416 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0089.420 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0089.423 (0) Table wp_commentmeta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0089.431 (0) Table wp_comments: Total expected rows (approximate): 140
+0089.455 (0) Table wp_comments: Total rows added: 140 in 0.02 seconds
+0089.459 (0) Table wp_comments: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_comments.table.gz - 35.8 KB)
+0089.471 (0) Table wp_links: Total expected rows (approximate): 0
+0089.476 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0089.479 (0) Table wp_links: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_links.table.gz - 0.4 KB)
+0089.487 (0) Table wp_postmeta: Total expected rows (approximate): 15995
+0090.463 (0) Table wp_postmeta: binary mysqldump finished (writes: 54) in 0.97 seconds
+0090.468 (0) Table wp_postmeta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_postmeta.table.gz - 1198.8 KB)
+0090.477 (0) Table wp_posts: Total expected rows (approximate): 1725
+0090.986 (0) Table wp_posts: Total rows added: 1725 in 0.51 seconds
+0090.989 (0) Table wp_posts: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_posts.table.gz - 664.7 KB)
+0090.998 (0) Table wp_term_relationships: Total expected rows (approximate): 59
+0091.004 (0) Table wp_term_relationships: Total rows added: 59 in 0.00 seconds
+0091.008 (0) Table wp_term_relationships: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_term_relationships.table.gz - 0.6 KB)
+0091.016 (0) Table wp_term_taxonomy: Total expected rows (approximate): 80
+0091.022 (0) Table wp_term_taxonomy: Total rows added: 80 in 0.00 seconds
+0091.025 (0) Table wp_term_taxonomy: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_term_taxonomy.table.gz - 0.9 KB)
+0091.155 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0091.159 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0091.162 (0) Table wp_termmeta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_termmeta.table.gz - 0.4 KB)
+0091.169 (0) Table wp_terms: Total expected rows (approximate): 80
+0091.174 (0) Table wp_terms: Total rows added: 80 in 0.00 seconds
+0091.178 (0) Table wp_terms: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_terms.table.gz - 1.4 KB)
+0091.190 (0) Table wp_blc_filters: Total expected rows (approximate): 0
+0091.195 (0) Table wp_blc_filters: Total rows added: 0 in 0.00 seconds
+0091.198 (0) Table wp_blc_filters: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_filters.table.gz - 0.3 KB)
+0091.205 (0) Table wp_blc_instances: Total expected rows (approximate): 60
+0091.212 (0) Table wp_blc_instances: Total rows added: 60 in 0.00 seconds
+0091.215 (0) Table wp_blc_instances: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_instances.table.gz - 2.9 KB)
+0091.223 (0) Table wp_blc_links: Total expected rows (approximate): 49
+0091.237 (0) Table wp_blc_links: Total rows added: 49 in 0.01 seconds
+0091.241 (0) Table wp_blc_links: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_links.table.gz - 15.5 KB)
+0091.254 (0) Table wp_blc_synch: Total expected rows (approximate): 67
+0091.260 (0) Table wp_blc_synch: Total rows added: 67 in 0.00 seconds
+0091.263 (0) Table wp_blc_synch: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_synch.table.gz - 0.9 KB)
+0091.276 (0) Table wp_eg_grids: Total expected rows (approximate): 2
+0091.281 (0) Table wp_eg_grids: Total rows added: 2 in 0.00 seconds
+0091.285 (0) Table wp_eg_grids: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_grids.table.gz - 1.7 KB)
+0091.297 (0) Table wp_eg_item_elements: Total expected rows (approximate): 0
+0091.301 (0) Table wp_eg_item_elements: Total rows added: 0 in 0.00 seconds
+0091.304 (0) Table wp_eg_item_elements: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_item_elements.table.gz - 0.3 KB)
+0091.317 (0) Table wp_eg_item_skins: Total expected rows (approximate): 44
+0091.343 (0) Table wp_eg_item_skins: Total rows added: 44 in 0.02 seconds
+0091.347 (0) Table wp_eg_item_skins: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_item_skins.table.gz - 19.1 KB)
+0091.360 (0) Table wp_eg_navigation_skins: Total expected rows (approximate): 8
+0091.366 (0) Table wp_eg_navigation_skins: Total rows added: 8 in 0.00 seconds
+0091.369 (0) Table wp_eg_navigation_skins: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_navigation_skins.table.gz - 3.4 KB)
+0091.380 (0) Table wp_inbound_events: Total expected rows (approximate): 0
+0091.384 (0) Table wp_inbound_events: Total rows added: 0 in 0.00 seconds
+0091.387 (0) Table wp_inbound_events: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_inbound_events.table.gz - 0.4 KB)
+0091.396 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 6
+0091.400 (0) Table wp_itsec_lockouts: Total rows added: 6 in 0.00 seconds
+0091.404 (0) Table wp_itsec_lockouts: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_itsec_lockouts.table.gz - 0.6 KB)
+0091.412 (0) Table wp_itsec_log: Total expected rows (approximate): 30
+0091.440 (0) Table wp_itsec_log: Total rows added: 30 in 0.03 seconds
+0091.444 (0) Table wp_itsec_log: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_itsec_log.table.gz - 1.4 KB)
+0091.492 (0) Table wp_itsec_temp: Total expected rows (approximate): 10
+0091.497 (0) Table wp_itsec_temp: Total rows added: 10 in 0.00 seconds
+0091.500 (0) Table wp_itsec_temp: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_itsec_temp.table.gz - 0.6 KB)
+0091.511 (0) Table wp_maxbuttons_collections: Total expected rows (approximate): 0
+0091.515 (0) Table wp_maxbuttons_collections: Total rows added: 0 in 0.00 seconds
+0091.519 (0) Table wp_maxbuttons_collections: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_maxbuttons_collections.table.gz - 0.3 KB)
+0091.529 (0) Table wp_maxbuttons_collections_trans: Total expected rows (approximate): 0
+0091.534 (0) Table wp_maxbuttons_collections_trans: Total rows added: 0 in 0.00 seconds
+0091.537 (0) Table wp_maxbuttons_collections_trans: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_maxbuttons_collections_trans.table.gz - 0.3 KB)
+0091.548 (0) Table wp_maxbuttonsv3: Total expected rows (approximate): 1
+0091.553 (0) Table wp_maxbuttonsv3: Total rows added: 1 in 0.00 seconds
+0091.556 (0) Table wp_maxbuttonsv3: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_maxbuttonsv3.table.gz - 1.4 KB)
+0091.564 (0) Table wp_pts_modules: Total expected rows (approximate): 9
+0091.568 (0) Table wp_pts_modules: Total rows added: 9 in 0.00 seconds
+0091.571 (0) Table wp_pts_modules: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_modules.table.gz - 0.5 KB)
+0091.580 (0) Table wp_pts_modules_type: Total expected rows (approximate): 2
+0091.584 (0) Table wp_pts_modules_type: Total rows added: 2 in 0.00 seconds
+0091.586 (0) Table wp_pts_modules_type: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_modules_type.table.gz - 0.3 KB)
+0091.595 (0) Table wp_pts_tables: Total expected rows (approximate): 12
+0091.616 (0) Table wp_pts_tables: Total rows added: 12 in 0.02 seconds
+0091.620 (0) Table wp_pts_tables: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_tables.table.gz - 39.8 KB)
+0091.633 (0) Table wp_pts_usage_stat: Total expected rows (approximate): 1
+0091.637 (0) Table wp_pts_usage_stat: Total rows added: 1 in 0.00 seconds
+0091.640 (0) Table wp_pts_usage_stat: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_usage_stat.table.gz - 0.4 KB)
+0091.653 (0) Table wp_revslider_backup_slides: Total expected rows (approximate): 0
+0091.657 (0) Table wp_revslider_backup_slides: Total rows added: 0 in 0.00 seconds
+0091.660 (0) Table wp_revslider_backup_slides: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_backup_slides.table.gz - 0.4 KB)
+0091.673 (0) Table wp_revslider_css: Total expected rows (approximate): 79
+0091.685 (0) Table wp_revslider_css: Total rows added: 79 in 0.01 seconds
+0091.688 (0) Table wp_revslider_css: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_css.table.gz - 4.4 KB)
+0091.702 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0091.706 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0091.709 (0) Table wp_revslider_layer_animations: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0091.722 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0091.726 (0) Table wp_revslider_navigations: Total rows added: 0 in 0.00 seconds
+0091.729 (0) Table wp_revslider_navigations: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_navigations.table.gz - 0.3 KB)
+0091.760 (0) Table wp_revslider_sliders: Total expected rows (approximate): 29
+0091.777 (0) Table wp_revslider_sliders: Total rows added: 29 in 0.01 seconds
+0091.781 (0) Table wp_revslider_sliders: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_sliders.table.gz - 14.1 KB)
+0091.793 (0) Table wp_revslider_slides: Total expected rows (approximate): 51
+0091.944 (0) Table wp_revslider_slides: Total rows added: 51 in 0.15 seconds
+0091.948 (0) Table wp_revslider_slides: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_slides.table.gz - 252.5 KB)
+0091.961 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 13
+0091.972 (0) Table wp_revslider_static_slides: Total rows added: 13 in 0.01 seconds
+0091.977 (0) Table wp_revslider_static_slides: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_static_slides.table.gz - 8.7 KB)
+0091.988 (0) Table wp_snp_stats: Total expected rows (approximate): 44
+0091.995 (0) Table wp_snp_stats: Total rows added: 44 in 0.00 seconds
+0091.999 (0) Table wp_snp_stats: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_snp_stats.table.gz - 0.5 KB)
+0092.037 (0) Table wp_tcb_api_error_log: Total expected rows (approximate): 2
+0092.042 (0) Table wp_tcb_api_error_log: Total rows added: 2 in 0.00 seconds
+0092.046 (0) Table wp_tcb_api_error_log: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tcb_api_error_log.table.gz - 1 KB)
+0092.060 (0) Table wp_tve_leads_contact_download: Total expected rows (approximate): 0
+0092.064 (0) Table wp_tve_leads_contact_download: Total rows added: 0 in 0.00 seconds
+0092.068 (0) Table wp_tve_leads_contact_download: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_contact_download.table.gz - 0.3 KB)
+0092.082 (0) Table wp_tve_leads_contacts: Total expected rows (approximate): 4
+0092.088 (0) Table wp_tve_leads_contacts: Total rows added: 4 in 0.00 seconds
+0092.092 (0) Table wp_tve_leads_contacts: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_contacts.table.gz - 0.5 KB)
+0092.136 (0) Table wp_tve_leads_event_log: Total expected rows (approximate): 101
+0092.167 (0) Table wp_tve_leads_event_log: Total rows added: 101 in 0.01 seconds
+0092.170 (0) Table wp_tve_leads_event_log: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_event_log.table.gz - 1.9 KB)
+0092.182 (0) Table wp_tve_leads_form_variations: Total expected rows (approximate): 15
+0092.198 (0) Table wp_tve_leads_form_variations: Total rows added: 15 in 0.01 seconds
+0092.202 (0) Table wp_tve_leads_form_variations: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_form_variations.table.gz - 6.5 KB)
+0092.214 (0) Table wp_tve_leads_group_options: Total expected rows (approximate): 4
+0092.218 (0) Table wp_tve_leads_group_options: Total rows added: 4 in 0.00 seconds
+0092.221 (0) Table wp_tve_leads_group_options: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_group_options.table.gz - 0.6 KB)
+0092.233 (0) Table wp_tve_leads_saved_group_options: Total expected rows (approximate): 0
+0092.238 (0) Table wp_tve_leads_saved_group_options: Total rows added: 0 in 0.00 seconds
+0092.241 (0) Table wp_tve_leads_saved_group_options: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_saved_group_options.table.gz - 0.3 KB)
+0092.254 (0) Table wp_tve_leads_split_test: Total expected rows (approximate): 0
+0092.259 (0) Table wp_tve_leads_split_test: Total rows added: 0 in 0.00 seconds
+0092.263 (0) Table wp_tve_leads_split_test: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_split_test.table.gz - 0.5 KB)
+0092.275 (0) Table wp_tve_leads_split_test_items: Total expected rows (approximate): 0
+0092.280 (0) Table wp_tve_leads_split_test_items: Total rows added: 0 in 0.00 seconds
+0092.283 (0) Table wp_tve_leads_split_test_items: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_split_test_items.table.gz - 0.4 KB)
+0092.296 (0) Table wp_wfBadLeechers: Total expected rows (approximate): 0
+0092.300 (0) Table wp_wfBadLeechers: Total rows added: 0 in 0.00 seconds
+0092.303 (0) Table wp_wfBadLeechers: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBadLeechers.table.gz - 0.3 KB)
+0092.317 (0) Table wp_wfBlockedIPLog: Total expected rows (approximate): 0
+0092.322 (0) Table wp_wfBlockedIPLog: Total rows added: 0 in 0.00 seconds
+0092.326 (0) Table wp_wfBlockedIPLog: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBlockedIPLog.table.gz - 0.3 KB)
+0092.342 (0) Table wp_wfBlocks: Total expected rows (approximate): 0
+0092.348 (0) Table wp_wfBlocks: Total rows added: 0 in 0.00 seconds
+0092.351 (0) Table wp_wfBlocks: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBlocks.table.gz - 0.4 KB)
+0092.366 (0) Table wp_wfBlocksAdv: Total expected rows (approximate): 0
+0092.371 (0) Table wp_wfBlocksAdv: Total rows added: 0 in 0.00 seconds
+0092.375 (0) Table wp_wfBlocksAdv: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBlocksAdv.table.gz - 0.3 KB)
+0092.390 (0) Table wp_wfConfig: Total expected rows (approximate): 127
+0092.400 (0) Table wp_wfConfig: Total rows added: 127 in 0.01 seconds
+0092.587 (0) Table wp_wfConfig: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfConfig.table.gz - 2.3 KB)
+0092.602 (0) Table wp_wfCrawlers: Total expected rows (approximate): 0
+0092.607 (0) Table wp_wfCrawlers: Total rows added: 0 in 0.00 seconds
+0092.610 (0) Table wp_wfCrawlers: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfCrawlers.table.gz - 0.3 KB)
+0092.622 (0) Table wp_wfFileMods: Total expected rows (approximate): 14985
+0092.824 (0) Table wp_wfFileMods: binary mysqldump finished (writes: 32) in 0.20 seconds
+0092.829 (0) Table wp_wfFileMods: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfFileMods.table.gz - 684.6 KB)
+0092.844 (0) Table wp_wfHits: Total expected rows (approximate): 40
+0092.852 (0) Table wp_wfHits: Total rows added: 40 in 0.00 seconds
+0092.855 (0) Table wp_wfHits: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfHits.table.gz - 1.7 KB)
+0092.894 (0) Table wp_wfHoover: Total expected rows (approximate): 0
+0092.899 (0) Table wp_wfHoover: Total rows added: 0 in 0.00 seconds
+0092.902 (0) Table wp_wfHoover: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfHoover.table.gz - 0.3 KB)
+0092.915 (0) Table wp_wfIssues: Total expected rows (approximate): 1
+0092.920 (0) Table wp_wfIssues: Total rows added: 1 in 0.00 seconds
+0092.923 (0) Table wp_wfIssues: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfIssues.table.gz - 1 KB)
+0092.935 (0) Table wp_wfLeechers: Total expected rows (approximate): 5
+0092.941 (0) Table wp_wfLeechers: Total rows added: 5 in 0.00 seconds
+0092.944 (0) Table wp_wfLeechers: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLeechers.table.gz - 0.4 KB)
+0092.958 (0) Table wp_wfLockedOut: Total expected rows (approximate): 0
+0092.962 (0) Table wp_wfLockedOut: Total rows added: 0 in 0.00 seconds
+0092.965 (0) Table wp_wfLockedOut: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLockedOut.table.gz - 0.3 KB)
+0092.979 (0) Table wp_wfLocs: Total expected rows (approximate): 0
+0092.983 (0) Table wp_wfLocs: Total rows added: 0 in 0.00 seconds
+0092.986 (0) Table wp_wfLocs: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLocs.table.gz - 0.4 KB)
+0092.999 (0) Table wp_wfLogins: Total expected rows (approximate): 0
+0093.003 (0) Table wp_wfLogins: Total rows added: 0 in 0.00 seconds
+0093.006 (0) Table wp_wfLogins: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLogins.table.gz - 0.4 KB)
+0093.021 (0) Table wp_wfNet404s: Total expected rows (approximate): 0
+0093.026 (0) Table wp_wfNet404s: Total rows added: 0 in 0.00 seconds
+0093.030 (0) Table wp_wfNet404s: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfNet404s.table.gz - 0.3 KB)
+0093.074 (0) Table wp_wfReverseCache: Total expected rows (approximate): 0
+0093.079 (0) Table wp_wfReverseCache: Total rows added: 0 in 0.00 seconds
+0093.083 (0) Table wp_wfReverseCache: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfReverseCache.table.gz - 0.3 KB)
+0093.098 (0) Table wp_wfScanners: Total expected rows (approximate): 0
+0093.103 (0) Table wp_wfScanners: Total rows added: 0 in 0.00 seconds
+0093.107 (0) Table wp_wfScanners: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfScanners.table.gz - 0.3 KB)
+0093.121 (0) Table wp_wfStatus: Total expected rows (approximate): 264
+0093.138 (0) Table wp_wfStatus: Total rows added: 264 in 0.01 seconds
+0093.142 (0) Table wp_wfStatus: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfStatus.table.gz - 5.5 KB)
+0093.156 (0) Table wp_wfThrottleLog: Total expected rows (approximate): 0
+0093.161 (0) Table wp_wfThrottleLog: Total rows added: 0 in 0.00 seconds
+0093.165 (0) Table wp_wfThrottleLog: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfThrottleLog.table.gz - 0.3 KB)
+0093.178 (0) Table wp_wfVulnScanners: Total expected rows (approximate): 0
+0093.183 (0) Table wp_wfVulnScanners: Total rows added: 0 in 0.00 seconds
+0093.186 (0) Table wp_wfVulnScanners: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfVulnScanners.table.gz - 0.3 KB)
+0093.200 (0) Table wp_woocommerce_api_keys: Total expected rows (approximate): 0
+0093.205 (0) Table wp_woocommerce_api_keys: Total rows added: 0 in 0.00 seconds
+0093.208 (0) Table wp_woocommerce_api_keys: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_api_keys.table.gz - 0.4 KB)
+0093.221 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 0
+0093.225 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 0 in 0.00 seconds
+0093.228 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 KB)
+0093.239 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 0
+0093.244 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 0 in 0.00 seconds
+0093.247 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.5 KB)
+0093.260 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 0
+0093.264 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 0 in 0.00 seconds
+0093.268 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_order_itemmeta.table.gz - 0.4 KB)
+0093.280 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 0
+0093.284 (0) Table wp_woocommerce_order_items: Total rows added: 0 in 0.00 seconds
+0093.287 (0) Table wp_woocommerce_order_items: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_order_items.table.gz - 0.3 KB)
+0093.305 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 0
+0093.309 (0) Table wp_woocommerce_sessions: Total rows added: 0 in 0.00 seconds
+0093.312 (0) Table wp_woocommerce_sessions: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_sessions.table.gz - 0.3 KB)
+0093.375 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0093.380 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0093.383 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.4 KB)
+0093.397 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 0
+0093.401 (0) Table wp_woocommerce_tax_rates: Total rows added: 0 in 0.00 seconds
+0093.404 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_tax_rates.table.gz - 0.4 KB)
+0093.417 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 0
+0093.421 (0) Table wp_woocommerce_termmeta: Total rows added: 0 in 0.00 seconds
+0093.424 (0) Table wp_woocommerce_termmeta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_termmeta.table.gz - 0.4 KB)
+0093.436 (0) Table wp_wpmm_subscribers: Total expected rows (approximate): 0
+0093.440 (0) Table wp_wpmm_subscribers: Total rows added: 0 in 0.00 seconds
+0093.442 (0) Table wp_wpmm_subscribers: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wpmm_subscribers.table.gz - 0.3 KB)
+0093.454 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 8
+0093.459 (0) Table wp_yoast_seo_links: Total rows added: 8 in 0.00 seconds
+0093.462 (0) Table wp_yoast_seo_links: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_yoast_seo_links.table.gz - 0.6 KB)
+0093.474 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 23
+0093.478 (0) Table wp_yoast_seo_meta: Total rows added: 23 in 0.00 seconds
+0093.481 (0) Table wp_yoast_seo_meta: finishing file (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0093.489 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_options.table.gz (1/80): adding to final database dump
+0093.982 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_users.table.gz (2/80): adding to final database dump
+0093.986 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_usermeta.table.gz (3/80): adding to final database dump
+0093.992 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_commentmeta.table.gz (4/80): adding to final database dump
+0094.002 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_comments.table.gz (5/80): adding to final database dump
+0094.019 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_links.table.gz (6/80): adding to final database dump
+0094.023 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_postmeta.table.gz (7/80): adding to final database dump
+0094.672 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_posts.table.gz (8/80): adding to final database dump
+0094.980 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_term_relationships.table.gz (9/80): adding to final database dump
+0094.985 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_term_taxonomy.table.gz (10/80): adding to final database dump
+0094.989 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_termmeta.table.gz (11/80): adding to final database dump
+0094.992 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_terms.table.gz (12/80): adding to final database dump
+0094.996 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_filters.table.gz (13/80): adding to final database dump
+0095.000 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_instances.table.gz (14/80): adding to final database dump
+0095.004 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_links.table.gz (15/80): adding to final database dump
+0095.012 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_blc_synch.table.gz (16/80): adding to final database dump
+0095.016 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_grids.table.gz (17/80): adding to final database dump
+0095.021 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_item_elements.table.gz (18/80): adding to final database dump
+0095.024 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_item_skins.table.gz (19/80): adding to final database dump
+0095.040 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_eg_navigation_skins.table.gz (20/80): adding to final database dump
+0095.045 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_inbound_events.table.gz (21/80): adding to final database dump
+0095.048 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_itsec_lockouts.table.gz (22/80): adding to final database dump
+0095.115 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_itsec_log.table.gz (23/80): adding to final database dump
+0095.120 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_itsec_temp.table.gz (24/80): adding to final database dump
+0095.125 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_maxbuttons_collections.table.gz (25/80): adding to final database dump
+0095.129 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_maxbuttons_collections_trans.table.gz (26/80): adding to final database dump
+0095.133 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_maxbuttonsv3.table.gz (27/80): adding to final database dump
+0095.137 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_modules.table.gz (28/80): adding to final database dump
+0095.141 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_modules_type.table.gz (29/80): adding to final database dump
+0095.144 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_tables.table.gz (30/80): adding to final database dump
+0095.159 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_pts_usage_stat.table.gz (31/80): adding to final database dump
+0095.163 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_backup_slides.table.gz (32/80): adding to final database dump
+0095.166 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_css.table.gz (33/80): adding to final database dump
+0095.172 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_layer_animations.table.gz (34/80): adding to final database dump
+0095.175 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_navigations.table.gz (35/80): adding to final database dump
+0095.178 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_sliders.table.gz (36/80): adding to final database dump
+0095.190 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_slides.table.gz (37/80): adding to final database dump
+0095.313 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_revslider_static_slides.table.gz (38/80): adding to final database dump
+0095.322 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_snp_stats.table.gz (39/80): adding to final database dump
+0095.326 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tcb_api_error_log.table.gz (40/80): adding to final database dump
+0095.330 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_contact_download.table.gz (41/80): adding to final database dump
+0095.333 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_contacts.table.gz (42/80): adding to final database dump
+0095.405 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_event_log.table.gz (43/80): adding to final database dump
+0095.410 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_form_variations.table.gz (44/80): adding to final database dump
+0095.415 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_group_options.table.gz (45/80): adding to final database dump
+0095.418 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_saved_group_options.table.gz (46/80): adding to final database dump
+0095.421 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_split_test.table.gz (47/80): adding to final database dump
+0095.424 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_tve_leads_split_test_items.table.gz (48/80): adding to final database dump
+0095.428 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBadLeechers.table.gz (49/80): adding to final database dump
+0095.431 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBlockedIPLog.table.gz (50/80): adding to final database dump
+0095.434 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBlocks.table.gz (51/80): adding to final database dump
+0095.437 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfBlocksAdv.table.gz (52/80): adding to final database dump
+0095.440 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfConfig.table.gz (53/80): adding to final database dump
+0095.444 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfCrawlers.table.gz (54/80): adding to final database dump
+0095.448 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfFileMods.table.gz (55/80): adding to final database dump
+0095.589 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfHits.table.gz (56/80): adding to final database dump
+0095.594 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfHoover.table.gz (57/80): adding to final database dump
+0095.597 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfIssues.table.gz (58/80): adding to final database dump
+0095.600 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLeechers.table.gz (59/80): adding to final database dump
+0095.604 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLockedOut.table.gz (60/80): adding to final database dump
+0095.607 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLocs.table.gz (61/80): adding to final database dump
+0095.610 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfLogins.table.gz (62/80): adding to final database dump
+0095.613 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfNet404s.table.gz (63/80): adding to final database dump
+0095.616 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfReverseCache.table.gz (64/80): adding to final database dump
+0095.619 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfScanners.table.gz (65/80): adding to final database dump
+0095.622 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfStatus.table.gz (66/80): adding to final database dump
+0095.628 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfThrottleLog.table.gz (67/80): adding to final database dump
+0095.632 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wfVulnScanners.table.gz (68/80): adding to final database dump
+0095.634 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_api_keys.table.gz (69/80): adding to final database dump
+0095.637 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_attribute_taxonomies.table.gz (70/80): adding to final database dump
+0095.661 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (71/80): adding to final database dump
+0095.665 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_order_itemmeta.table.gz (72/80): adding to final database dump
+0095.668 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_order_items.table.gz (73/80): adding to final database dump
+0095.671 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_sessions.table.gz (74/80): adding to final database dump
+0095.674 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_tax_rate_locations.table.gz (75/80): adding to final database dump
+0095.677 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_tax_rates.table.gz (76/80): adding to final database dump
+0095.680 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_woocommerce_termmeta.table.gz (77/80): adding to final database dump
+0095.683 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_wpmm_subscribers.table.gz (78/80): adding to final database dump
+0095.686 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_yoast_seo_links.table.gz (79/80): adding to final database dump
+0095.689 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db-table-wp_yoast_seo_meta.table.gz (80/80): adding to final database dump
+0095.692 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz: finished writing out complete database file (4704 KB)
+0095.793 (0) Total database tables backed up: 80 (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz, size: 4837375, sha256)
+0095.807 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0095.810 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0095.900 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0095.903 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip: others: This file has not yet been successfully uploaded: will queue
+0095.906 (0) backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz: db: This file has not yet been successfully uploaded: will queue
+0095.909 (0) Saving backup history. Total backup size: 491.5 MB
+0095.916 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0095.927 (0) Cloud backup selection (1/1): dropbox (last)
+0095.930 (0) Beginning dispatch of backup to remote (dropbox)
+0095.933 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0095.942 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0097.091 (0) Dropbox quota usage: used=104028.5 MB, total=1050880 MB, available=946851.5 MB
+0097.111 (0) Dropbox: Attempt to upload: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip to: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip
+0098.220 (0) Dropbox chunked upload: 2 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 1048576, 8192 KB)
+0101.573 (0) Dropbox chunked upload: 18.2 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 9437184, 10240 KB)
+0105.211 (0) Dropbox chunked upload: 38.3 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 19922944, 10240 KB)
+0109.848 (0) Dropbox chunked upload: 58.5 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 30408704, 10240 KB)
+0113.568 (0) Dropbox chunked upload: 78.7 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 40894464, 10240 KB)
+0117.436 (0) Dropbox chunked upload: 98.9 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 51380224, 10240 KB)
+0118.865 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAtztnZ6PQT0VklA, 51954022, 10240 KB)
+0120.545 (0) Recording as successfully uploaded: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip (867a8e19e5fc7be4159cdb7988ecb73f)
+0120.608 (0) Deleting local file: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip: OK
+0120.612 (0) Dropbox: File upload success (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-plugins.zip): 50736 KB in 23s (2158 KB/s)
+0120.892 (0) Dropbox quota usage: used=104078.1 MB, total=1050880 MB, available=946801.9 MB
+0120.895 (0) Dropbox: Attempt to upload: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip to: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip
+0124.216 (0) Dropbox chunked upload: 26.1 % uploaded (AAAAAAAAtzzbUUIsUYbAUw, 10485760, 10240 KB)
+0128.514 (0) Dropbox chunked upload: 52.1 % uploaded (AAAAAAAAtzzbUUIsUYbAUw, 20971520, 10240 KB)
+0133.505 (0) Dropbox chunked upload: 78.2 % uploaded (AAAAAAAAtzzbUUIsUYbAUw, 31457280, 10240 KB)
+0137.448 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAtzzbUUIsUYbAUw, 40238125, 10240 KB)
+0139.740 (0) Recording as successfully uploaded: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip (0d00bc5f114a53c3d34743afa29e7c08)
+0139.884 (0) Deleting local file: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip: OK
+0139.887 (0) Dropbox: File upload success (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-themes.zip): 39295 KB in 18s (2069 KB/s)
+0140.270 (0) Dropbox quota usage: used=104116.4 MB, total=1050880 MB, available=946763.6 MB
+0140.274 (0) Dropbox: Attempt to upload: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip to: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip
+0143.876 (0) Dropbox chunked upload: 2.5 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 10485760, 10240 KB)
+0147.601 (0) Dropbox chunked upload: 5 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 20971520, 10240 KB)
+0150.537 (0) Dropbox chunked upload: 7.5 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 31457280, 10240 KB)
+0154.443 (0) Dropbox chunked upload: 10 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 41943040, 10240 KB)
+0158.165 (0) Dropbox chunked upload: 12.5 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 52428800, 10240 KB)
+0161.651 (0) Dropbox chunked upload: 15 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 62914560, 10240 KB)
+0164.799 (0) Dropbox chunked upload: 17.5 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 73400320, 10240 KB)
+0168.668 (0) Dropbox chunked upload: 20.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 83886080, 10240 KB)
+0172.704 (0) Dropbox chunked upload: 22.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 94371840, 10240 KB)
+0176.807 (0) Dropbox chunked upload: 25.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 104857600, 10240 KB)
+0179.122 (0) Dropbox chunked upload: 27.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 115343360, 10240 KB)
+0182.709 (0) Dropbox chunked upload: 30.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 125829120, 10240 KB)
+0186.112 (0) Dropbox chunked upload: 32.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 136314880, 10240 KB)
+0189.304 (0) Dropbox chunked upload: 35.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 146800640, 10240 KB)
+0192.714 (0) Dropbox chunked upload: 37.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 157286400, 10240 KB)
+0196.387 (0) Dropbox chunked upload: 40.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 167772160, 10240 KB)
+0199.400 (0) Dropbox chunked upload: 42.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 178257920, 10240 KB)
+0203.232 (0) Dropbox chunked upload: 45.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 188743680, 10240 KB)
+0206.712 (0) Dropbox chunked upload: 47.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 199229440, 10240 KB)
+0210.944 (0) Dropbox chunked upload: 50.1 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 209715200, 10240 KB)
+0214.335 (0) Dropbox chunked upload: 52.6 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 220200960, 10240 KB)
+0218.267 (0) Dropbox chunked upload: 55.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 230686720, 10240 KB)
+0221.463 (0) Dropbox chunked upload: 57.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 241172480, 10240 KB)
+0225.603 (0) Dropbox chunked upload: 60.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 251658240, 10240 KB)
+0229.210 (0) Dropbox chunked upload: 62.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 262144000, 10240 KB)
+0232.670 (0) Dropbox chunked upload: 65.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 272629760, 10240 KB)
+0235.905 (0) Dropbox chunked upload: 67.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 283115520, 10240 KB)
+0239.866 (0) Dropbox chunked upload: 70.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 293601280, 10240 KB)
+0243.240 (0) Dropbox chunked upload: 72.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 304087040, 10240 KB)
+0247.494 (0) Dropbox chunked upload: 75.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 314572800, 10240 KB)
+0251.050 (0) Dropbox chunked upload: 77.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 325058560, 10240 KB)
+0255.997 (0) The scheduled resumption is within 45 seconds - will reschedule
+0256.006 (0) Rescheduling resumption 1: moving to 345 seconds from now (1503911690)
+0256.017 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0256.020 (0) Dropbox chunked upload: 80.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 335544320, 10240 KB)
+0259.615 (0) Dropbox chunked upload: 82.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 346030080, 10240 KB)
+0263.769 (0) Dropbox chunked upload: 85.2 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 356515840, 10240 KB)
+0267.151 (0) Dropbox chunked upload: 87.7 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 367001600, 10240 KB)
+0271.675 (0) Dropbox chunked upload: 90.3 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 377487360, 10240 KB)
+0275.525 (0) Dropbox chunked upload: 92.8 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 387973120, 10240 KB)
+0280.381 (0) Dropbox chunked upload: 95.3 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 398458880, 10240 KB)
+0284.284 (0) Dropbox chunked upload: 97.8 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 408944640, 10240 KB)
+0287.950 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAtz3sTTbk6BwCtw, 418251964, 10240 KB)
+0290.292 (0) Recording as successfully uploaded: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip (3bb8368a71aee1686cc5127490ce497d)
+0290.525 (0) Deleting local file: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip: OK
+0290.530 (0) Dropbox: File upload success (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-uploads.zip): 408449 KB in 150s (2718 KB/s)
+0290.844 (0) Dropbox quota usage: used=104515.3 MB, total=1050880 MB, available=946364.7 MB
+0290.847 (0) Dropbox: Attempt to upload: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip to: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip
+0291.329 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAtz4ehzU7tDRQSA, 41872, 10240 KB)
+0292.694 (0) Recording as successfully uploaded: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip (2d9b4cec0802a1241fc9e69f7347c67c)
+0292.706 (0) Deleting local file: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip: OK
+0292.710 (0) Dropbox: File upload success (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-others.zip): 40 KB in 1s (21 KB/s)
+0293.215 (0) Dropbox quota usage: used=104515.4 MB, total=1050880 MB, available=946364.6 MB
+0293.219 (0) Dropbox: Attempt to upload: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz to: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz
+0295.637 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAtz8M4nPzykf1IQ, 4837375, 10240 KB)
+0297.514 (0) Recording as successfully uploaded: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz (7d4b41024e835682dcc2436bccc5c4c3)
+0297.527 (0) Deleting local file: backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz: OK
+0297.531 (0) Dropbox: File upload success (backup_2017-08-28-0904_Social_Media_Solutions_d8640c753c91-db.gz): 4723 KB in 4s (1095 KB/s)
+0297.537 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0297.544 (0) Number of backup sets in history: 3; groups (db): 1
+0297.548 (0) Examining (for databases) backup set with group_id=0, nonce=d8640c753c91, datestamp=1503911089 (Aug 28 2017 09:04:49)
+0297.551 (0) This backup set is the backup set just made, so will not be deleted.
+0297.554 (0) Examining (for databases) backup set with group_id=0, nonce=2f2a18990750, datestamp=1503305834 (Aug 21 2017 08:57:14)
+0297.558 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0297.562 (0) Examining (for databases) backup set with group_id=0, nonce=a31755c38d85, datestamp=1502701773 (Aug 14 2017 09:09:33)
+0297.565 (0) 1502701773: db: this set includes a database (backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-db.gz); db count is now 2
+0297.568 (0) 1502701773: db: over retain limit (2); will delete this database
+0297.572 (0) Delete file: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-db.gz, service=dropbox
+0297.576 (0) Dropbox: request deletion: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-db.gz
+0298.816 (0) Dropbox: delete succeeded
+0298.824 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0298.827 (0) Number of backup sets in history: 3; groups (files): 1
+0298.830 (0) Examining (for files) backup set with nonce=d8640c753c91, datestamp=1503911089 (Aug 28 2017 09:04:49)
+0298.833 (0) This backup set is the backup set just made, so will not be deleted.
+0298.837 (0) This backup set is the backup set just made, so will not be deleted.
+0298.837 (0) This backup set is the backup set just made, so will not be deleted.
+0298.837 (0) This backup set is the backup set just made, so will not be deleted.
+0298.837 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0298.840 (0) Examining (for files) backup set with nonce=2f2a18990750, datestamp=1503305834 (Aug 21 2017 08:57:14)
+0298.844 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0298.847 (0) Examining (for files) backup set with nonce=a31755c38d85, datestamp=1502701773 (Aug 14 2017 09:09:33)
+0298.850 (0) plugins: over retain limit (2); will delete this file entity
+0298.853 (0) themes: over retain limit (2); will delete this file entity
+0298.856 (0) uploads: over retain limit (2); will delete this file entity
+0298.859 (0) others: over retain limit (2); will delete this file entity
+0298.862 (0) Delete file: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-plugins.zip, service=dropbox
+0298.865 (0) Delete file: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-themes.zip, service=dropbox
+0298.868 (0) Delete file: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-uploads.zip, service=dropbox
+0298.871 (0) Delete file: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-others.zip, service=dropbox
+0298.874 (0) Dropbox: request deletion: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-plugins.zip
+0299.662 (0) Dropbox: delete succeeded
+0299.668 (0) Dropbox: request deletion: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-themes.zip
+0300.357 (0) Dropbox: delete succeeded
+0300.361 (0) Dropbox: request deletion: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-uploads.zip
+0301.918 (0) Dropbox: delete succeeded
+0301.921 (0) Dropbox: request deletion: backup_2017-08-14-0909_Social_Media_Solutions_a31755c38d85-others.zip
+0302.556 (0) Dropbox: delete succeeded
+0302.564 (0) This backup set is now empty; will remove from history
+0302.567 (0) Deleting log file (log.a31755c38d85.txt)
+0302.600 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0302.612 (0) Resume backup (d8640c753c91, 0): finish run
+0302.622 (0) Decremented the semaphore (fd) by 1
+0302.627 (0) Semaphore (fd) unlocked
+0302.630 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0302.641 (0) No email will/can be sent - the user has not configured an email address.
+0302.644 (0) The backup apparently succeeded and is now complete

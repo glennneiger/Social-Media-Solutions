@@ -1,0 +1,2 @@
+[28-Nov-2016 09:53:30 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/soso2048/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[28-Nov-2016 20:17:58 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home2/soso2048/public_html/wp-content/themes/twentyfourteen/index.php on line 17

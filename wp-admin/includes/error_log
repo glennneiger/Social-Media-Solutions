@@ -1,0 +1,2 @@
+[24-Aug-2016 11:26:33 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home2/soso2048/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
+[31-Dec-2016 19:48:31 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home2/soso2048/public_html/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

@@ -1,0 +1,130 @@
+0000.003 () Opened log file at time: Fri, 31 Mar 2017 00:34:35 +0000 on http://www.socialmedia-solutions.com
+0000.004 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.35 WP: 4.7.3 PHP: 5.6.29 (cgi-fcgi, Linux gator4058.hostgator.com 3.12.65-188.ELK6.x86_64 #1 SMP Thu Oct 20 23:27:48 CDT 2016 x86_64) MySQL: 5.5.51 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 73.1M | 74.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.208 () Free space on disk containing Updraft's temporary directory: 110778.4 MB / Free disk space in account: 998199 MB (0.2 % used)
+0000.210 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.371 () Entity: db
+0000.371 () restore_backup(backup_file=backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-db.gz, type=db, info=a:0:{}, last_one=)
+0000.371 () Unpacking backup... (backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-db.gz, 9.9 Mb)
+0000.402 () Database successfully unpacked
+0000.402 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.402 () Using direct MySQL access; value of use_mysqli is: 1
+0000.411 () Tried to raise max_allowed_packet from 16 MB to 32 MB, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.411 () Max packet size: 16 MB
+0000.411 () Entering maintenance mode
+0000.411 () Enabling Maintenance mode&#8230;
+0000.413 () Backup of: http://www.socialmedia-solutions.com
+0000.415 () Content URL: http://www.socialmedia-solutions.com/wp-content
+0000.415 () Uploads URL: http://www.socialmedia-solutions.com/wp-content/uploads
+0000.416 () Old table prefix: wp_
+0000.416 () Site information: multisite=0
+0000.422 () New table prefix: wp_
+0000.436 () Processing table (MyISAM): wp_options
+0009.377 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0009.503 () Processing table (MyISAM): wp_users
+0009.518 () Processing table (MyISAM): wp_usermeta
+0009.544 () Processing table (MyISAM): wp_commentmeta
+0009.555 () Processing table (MyISAM): wp_comments
+0009.582 () Processing table (MyISAM): wp_links
+0009.605 () Processing table (MyISAM): wp_postmeta
+0010.126 () Database queries processed: 50 in 9.72 seconds
+0010.133 () Processing table (MyISAM): wp_posts
+0010.774 () Processing table (MyISAM): wp_term_relationships
+0010.793 () Processing table (MyISAM): wp_term_taxonomy
+0010.814 () Processing table (MyISAM): wp_termmeta
+0010.822 () Processing table (MyISAM): wp_terms
+0010.847 () Processing table (MyISAM): wp_blc_filters
+0010.856 () Processing table (MyISAM): wp_blc_instances
+0010.874 () Processing table (MyISAM): wp_blc_links
+0010.894 () Processing table (MyISAM): wp_blc_synch
+0010.915 () Processing table (MyISAM): wp_eg_grids
+0010.928 () Processing table (MyISAM): wp_eg_item_elements
+0010.937 () Processing table (MyISAM): wp_eg_item_skins
+0010.985 () Processing table (MyISAM): wp_eg_navigation_skins
+0010.990 () Database queries processed: 100 in 10.58 seconds
+0011.013 () Processing table (InnoDB): wp_inbound_events
+0011.037 () Processing table (MyISAM): wp_itsec_lockouts
+0011.055 () Processing table (MyISAM): wp_itsec_log
+0012.167 () Processing table (MyISAM): wp_itsec_temp
+0012.183 () Processing table (InnoDB): wp_maxbuttons_collections
+0012.196 () Processing table (InnoDB): wp_maxbuttons_collections_trans
+0012.214 () Processing table (InnoDB): wp_maxbuttonsv3
+0012.226 () Processing table (MyISAM): wp_pts_modules
+0012.240 () Processing table (MyISAM): wp_pts_modules_type
+0012.257 () Processing table (MyISAM): wp_pts_tables
+0012.280 () Processing table (MyISAM): wp_pts_usage_stat
+0012.291 () Processing table (MyISAM): wp_revslider_backup_slides
+0012.300 () Processing table (MyISAM): wp_revslider_css
+0012.323 () Processing table (MyISAM): wp_revslider_layer_animations
+0012.331 () Processing table (MyISAM): wp_revslider_navigations
+0012.336 () Database queries processed: 150 in 11.93 seconds
+0012.340 () Processing table (MyISAM): wp_revslider_sliders
+0012.379 () Processing table (MyISAM): wp_revslider_slides
+0012.560 () Processing table (MyISAM): wp_revslider_static_slides
+0012.591 () Processing table (InnoDB): wp_snp_stats
+0012.613 () Processing table (MyISAM): wp_tcb_api_error_log
+0012.632 () Processing table (MyISAM): wp_tve_leads_contact_download
+0012.640 () Processing table (MyISAM): wp_tve_leads_contacts
+0012.653 () Processing table (MyISAM): wp_tve_leads_event_log
+0012.677 () Processing table (MyISAM): wp_tve_leads_form_variations
+0012.693 () Processing table (MyISAM): wp_tve_leads_group_options
+0012.708 () Processing table (MyISAM): wp_tve_leads_saved_group_options
+0012.719 () Processing table (MyISAM): wp_tve_leads_split_test
+0012.727 () Processing table (MyISAM): wp_tve_leads_split_test_items
+0012.735 () Processing table (MyISAM): wp_wfBadLeechers
+0012.742 () Processing table (MyISAM): wp_wfBlockedIPLog
+0012.750 () Processing table (MyISAM): wp_wfBlocks
+0012.757 () Processing table (MyISAM): wp_wfBlocksAdv
+0012.763 () Processing table (MyISAM): wp_wfConfig
+0012.767 () Database queries processed: 200 in 12.36 seconds
+0012.787 () Processing table (MyISAM): wp_wfCrawlers
+0012.796 () Processing table (MyISAM): wp_wfFileMods
+0013.021 () Processing table (MyISAM): wp_wfHits
+0013.040 () Processing table (MyISAM): wp_wfHoover
+0013.048 () Processing table (MyISAM): wp_wfIssues
+0013.059 () Processing table (MyISAM): wp_wfLeechers
+0013.070 () Processing table (MyISAM): wp_wfLockedOut
+0013.078 () Processing table (MyISAM): wp_wfLocs
+0013.087 () Processing table (MyISAM): wp_wfLogins
+0013.094 () Processing table (MyISAM): wp_wfNet404s
+0013.101 () Processing table (MyISAM): wp_wfReverseCache
+0013.107 () Processing table (MyISAM): wp_wfScanners
+0013.115 () Processing table (MyISAM): wp_wfStatus
+0013.119 () Database queries processed: 250 in 12.71 seconds
+0013.155 () Processing table (MyISAM): wp_wfThrottleLog
+0013.163 () Processing table (MyISAM): wp_wfVulnScanners
+0013.170 () Processing table (MyISAM): wp_woocommerce_api_keys
+0013.178 () Processing table (MyISAM): wp_woocommerce_attribute_taxonomies
+0013.186 () Processing table (MyISAM): wp_woocommerce_downloadable_product_permissions
+0013.193 () Processing table (MyISAM): wp_woocommerce_order_itemmeta
+0013.200 () Processing table (MyISAM): wp_woocommerce_order_items
+0013.208 () Processing table (MyISAM): wp_woocommerce_sessions
+0013.215 () Processing table (MyISAM): wp_woocommerce_tax_rate_locations
+0013.224 () Processing table (MyISAM): wp_woocommerce_tax_rates
+0013.232 () Processing table (MyISAM): wp_woocommerce_termmeta
+0013.237 () Unlocking database and leaving maintenance mode
+0013.238 () Disabling Maintenance mode&#8230;
+0013.238 () Finished: lines processed: 276 in 12.83 seconds
+0013.242 () Cleaning up rubbish...
+0013.264 () Entity: plugins
+0013.264 () restore_backup(backup_file=backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:46:"/home2/soso2048/public_html/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0013.264 () Unpacking backup... (backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-plugins.zip, 56.1 Mb)
+0016.746 () Moving old data: filesystem method / updraft_dir is potentially possible
+0016.746 () Moving old data: can potentially use wp_filesystem method / -old
+0016.746 () Moving old data out of the way...
+0035.164 () Top-level entities being moved: tablepress, wordpress-seo, pricing-table-by-supsystic, thrive-leads, broken-link-checker, sumome, essential-grid, agile-crm-lead-management, index.php, webnus-shortcodes, contact-form-7, thrive-visual-editor, webnus-portfolio, revslider, revslider-whiteboard-addon, js_composer, w3-total-cache, better-wp-security, updraftplus
+0035.215 () Moving unpacked backup into place...
+0044.621 () Top-level entities being moved: tablepress, wordpress-seo, pricing-table-by-supsystic, thrive-leads, broken-link-checker, sumome, essential-grid, agile-crm-lead-management, index.php, webnus-shortcodes, contact-form-7, thrive-visual-editor, webnus-portfolio, revslider, revslider-whiteboard-addon, js_composer, w3-total-cache, better-wp-security, updraftplus
+0044.673 () Cleaning up rubbish...
+0044.679 () Entity: themes
+0044.680 () restore_backup(backup_file=backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-themes.zip, type=themes, info=a:2:{s:4:"path";s:45:"/home2/soso2048/public_html/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0044.680 () Unpacking backup... (backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-themes.zip, 38.4 Mb)
+0045.642 () Moving old data: filesystem method / updraft_dir is potentially possible
+0045.642 () Moving old data: can potentially use wp_filesystem method / -old
+0045.642 () Moving old data out of the way...
+0046.994 () Top-level entities being moved: twentythirteen, easyweb, index.php, twentyfourteen, twentyfifteen, __MACOSX, themeforest-14881144-easyweb-wp-theme-for-hosting-seo-and-webdesign-agencies-wordpress-theme.zip
+0047.000 () Moving unpacked backup into place...
+0048.192 () Top-level entities being moved: twentythirteen, easyweb, index.php, twentyfourteen, twentyfifteen, __MACOSX, themeforest-14881144-easyweb-wp-theme-for-hosting-seo-and-webdesign-agencies-wordpress-theme.zip
+0048.205 () Cleaning up rubbish...
+0048.214 () Entity: uploads
+0048.214 () restore_backup(backup_file=backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:46:"/home2/soso2048/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0048.215 () Unpacking backup... (backup_2017-03-27-0858_Social_Media_Solutions_92b825d9a8aa-uploads.zip, 310.8 Mb)
